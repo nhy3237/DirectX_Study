@@ -1,0 +1,32 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Msbuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(498,5): warning MSB8004: Intermediate 디렉터리가 슬래시로 끝나지 않습니다. Intermediate 디렉터리의 적절한 평가를 허용하는 데 필요하므로 이 빌드 인스턴스에서 슬래시를 추가합니다.
+  cBody.cpp
+  cCamera.cpp
+  cCharacter.cpp
+  cCubeMan.cpp
+  cCubeNode.cpp
+  cCubePC.cpp
+  cCubePNT.cpp
+  cDeviceManager.cpp
+  cGizmo.cpp
+  cGrid.cpp
+  cHead.cpp
+  cLeftArm.cpp
+D:\2023_nhy\DirectX\DX3D\DX3D\cCharacter.cpp(43,60): warning C4244: '인수': 'double'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\2023_nhy\DirectX\DX3D\DX3D\cCubePC.cpp(86,19): warning C4305: '초기화 중': 'double'에서 'float'(으)로 잘립니다.
+D:\2023_nhy\DirectX\DX3D\DX3D\cCubeMan.cpp(43,26): warning C4316: 'cBody': 힙에 할당된 개체가 16에 맞추어져 있지 않을 수도 있습니다
+D:\2023_nhy\DirectX\DX3D\DX3D\cCubeMan.cpp(48,26): warning C4316: 'cHead': 힙에 할당된 개체가 16에 맞추어져 있지 않을 수도 있습니다
+D:\2023_nhy\DirectX\DX3D\DX3D\cCubeMan.cpp(52,35): warning C4316: 'cLeftArm': 힙에 할당된 개체가 16에 맞추어져 있지 않을 수도 있습니다
+D:\2023_nhy\DirectX\DX3D\DX3D\cCubeMan.cpp(57,38): warning C4316: 'cRightArm': 힙에 할당된 개체가 16에 맞추어져 있지 않을 수도 있습니다
+D:\2023_nhy\DirectX\DX3D\DX3D\cCubeMan.cpp(62,35): warning C4316: 'cLeftLeg': 힙에 할당된 개체가 16에 맞추어져 있지 않을 수도 있습니다
+D:\2023_nhy\DirectX\DX3D\DX3D\cCubeMan.cpp(67,38): warning C4316: 'cRightLeg': 힙에 할당된 개체가 16에 맞추어져 있지 않을 수도 있습니다
+D:\2023_nhy\DirectX\DX3D\DX3D\cGrid.cpp(62,21): warning C4316: 'cGizmo': 힙에 할당된 개체가 16에 맞추어져 있지 않을 수도 있습니다
+D:\2023_nhy\DirectX\DX3D\DX3D\cGrid.cpp(68,21): warning C4316: 'cGizmo': 힙에 할당된 개체가 16에 맞추어져 있지 않을 수도 있습니다
+D:\2023_nhy\DirectX\DX3D\DX3D\cGrid.cpp(74,21): warning C4316: 'cGizmo': 힙에 할당된 개체가 16에 맞추어져 있지 않을 수도 있습니다
+  cLeftLeg.cpp
+  cMainGame.cpp
+  cRightArm.cpp
+  cRightLeg.cpp
+  DX3D.cpp
+D:\2023_nhy\DirectX\DX3D\DX3D\cMainGame.cpp(16,12): warning C4244: '인수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\2023_nhy\DirectX\DX3D\DX3D\cMainGame.cpp(40,27): warning C4316: 'cCubeMan': 힙에 할당된 개체가 16에 맞추어져 있지 않을 수도 있습니다
+  DX3D.vcxproj -> D:\2023_nhy\DirectX\DX3D\Debug\DX3D.exe
